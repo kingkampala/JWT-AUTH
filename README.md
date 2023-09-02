@@ -18,6 +18,7 @@ This application uses the following dependencies:
 Environment variables are loaded from a .env file using the dotenv library. You must configure the following variables in your .env file:
 
 **TOKEN_KEY**: A secret key used for signing JWT tokens.
+
 **MONGO_URL**: The URL for your MongoDB database.
 
 # **User Model**
