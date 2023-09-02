@@ -26,7 +26,7 @@ Environment variables are loaded from a .env file using the dotenv library. You 
 This code assumes the existence of a User model for storing user data. Ensure that you have a corresponding database schema for users.
 
 # **Endpoints**
-The application defines the following endpoints:
+_The application defines the following endpoints:_
 
 ### User Registration
 * **Endpoint**: `POST /register`
@@ -57,4 +57,4 @@ The application defines the following endpoints:
 If a request is made to an undefined route, the server responds with a 404 status code and a JSON error message.
 
 # **License**
-    This code is provided under the MIT License.
+This code is provided under the **MIT License**.
