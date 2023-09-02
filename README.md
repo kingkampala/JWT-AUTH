@@ -1,10 +1,10 @@
-### JWT Authentication with Express.js
+### **JWT Authentication with Express.js**
 
 This Node.js application demonstrates JWT (JSON Web Token) authentication using the Express.js framework. It provides user registration, login, and protected routes with authentication.
 
 ### Key Notes
 
- **Dependencies**
+ # Dependencies
 This application uses the following dependencies:
 
 * **Expres**s: For building the web server.
