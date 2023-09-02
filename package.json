@@ -1,7 +1,7 @@
 {
-  "name": "jwt-project",
+  "name": "JWT-AUTH",
   "version": "1.0.0",
-  "description": "A demo about authentication using jwt",
+  "description": "A demo article on jwt authentication",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Olanetsoft/jwt-project.git"
+    "url": "git+https://github.com/kingkampala/JWT-AUTH.git"
   },
   "keywords": [
     "jwt",
     "node",
     "authentication"
   ],
-  "author": "Idris Olubisi",
+  "author": "Kampala Ezeanya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Olanetsoft/jwt-project/issues"
+    "url": "https://github.com/kingkampala/JWT-AUTH/issues"
   },
-  "homepage": "https://github.com/Olanetsoft/jwt-project#readme",
+  "homepage": "https://github.com/kingkampala/JWT-AUTH#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^10.0.0",
