@@ -4,7 +4,7 @@
 
 # Key Notes
 
-    * Dependencies
+    ### Dependencies
     This application uses the following dependencies:
 
         * Express: For building the web server.
