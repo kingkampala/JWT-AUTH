@@ -41,17 +41,17 @@ _The application defines the following endpoints:_
 ### Protected Route
 * **Endpoint**: `GET /welcome`
 * **Description**: A protected route that requires authentication. Only authenticated users with a valid JWT token can access it.
-* **Response**: A simple "Welcome!" message.
+* **Response**: A simple *"Welcome!"* message.
 
 # **Running the Application**
 
-* **Install dependencies**: Run npm install to install the required packages.
+* **Install dependencies**: Run `npm install` to install the required packages.
 
-* **Set up the environment**: Create a .env file in the project root and configure the required environment variables.
+* **Set up the environment**: Create a `.env` file in the project root and configure the required environment variables.
 
-* **Start the server**: Run npm start to start the Express server.
+* **Start the server**: Run `npm start` to start the Express server.
 
-* **Access the endpoints**: Use a tool like Postman or a web browser to make requests to the defined endpoints (/register, /login, and /welcome) based on your needs.
+* **Access the endpoints**: Use a tool like Postman or a web browser to make requests to the defined endpoints (`/register`, `/login`, and `/welcome`) based on your needs.
 
 # **404 Error Handling**
 If a request is made to an undefined route, the server responds with a 404 status code and a JSON error message.
