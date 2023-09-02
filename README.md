@@ -15,7 +15,7 @@ _This application uses the following dependencies:_
 
 ### Configuration
 
-Environment variables are loaded from a .env file using the dotenv library. You must configure the following variables in your .env file:
+Environment variables are loaded from a `.env` file using the `dotenv` library. You must configure the following variables in your `.env` file:
 
 **TOKEN_KEY**: A secret key used for signing JWT tokens.
 
@@ -23,7 +23,7 @@ Environment variables are loaded from a .env file using the dotenv library. You 
 
 ### User Model
 
-This code assumes the existence of a User model for storing user data. Ensure that you have a corresponding database schema for users.
+This code assumes the existence of a `User` model for storing user data. Ensure that you have a corresponding database schema for users.
 
 # **Endpoints**
 _The application defines the following endpoints:_
