@@ -4,7 +4,7 @@ This Node.js application demonstrates JWT (JSON Web Token) authentication using 
 
 ### Key Notes
 
- # Dependencies
+ ### Dependencies
 This application uses the following dependencies:
 
 * **Expres**s: For building the web server.
