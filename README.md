@@ -55,6 +55,3 @@ _The application defines the following endpoints:_
 
 # **404 Error Handling**
 If a request is made to an undefined route, the server responds with a 404 status code and a JSON error message.
-
-# **License**
-This code is provided under the **MIT License**.
