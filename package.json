@@ -1,5 +1,5 @@
 {
-  "name": "JWT-AUTH",
+  "name": "Jwt-Auth",
   "version": "1.0.0",
   "description": "A demo article on jwt authentication",
   "main": "index.js",
@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kingkampala/JWT-AUTH.git"
+    "url": "git+https://github.com/kingkampala/Jwt-Auth.git"
   },
   "keywords": [
     "jwt",
     "node",
     "authentication"
   ],
-  "author": "Kampala Ezeanya",
+  "author": "Kampala",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kingkampala/JWT-AUTH/issues"
+    "url": "https://github.com/kingkampala/Jwt-Auth/issues"
   },
-  "homepage": "https://github.com/kingkampala/JWT-AUTH#readme",
+  "homepage": "https://github.com/kingkampala/Jwt-Auth#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^10.0.0",
